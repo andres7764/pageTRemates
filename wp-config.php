@@ -17,9 +17,10 @@
  *
  * @package WordPress
  */
-//set_time_limit (50);
+set_time_limit (500);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('WPLANG','es_ES');
 define('DB_NAME', 'tusremates');
 
 /** MySQL database username */

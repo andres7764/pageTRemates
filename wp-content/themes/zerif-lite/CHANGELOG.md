@@ -1,4 +1,73 @@
 
+### 1.8.5.30 - 30/10/2017
+**Changes:** 
+- Updated Travis and grunt scripts to latest versions
+- Fixed small issue with the Skill circles texts not floating properly in the About section
+- Added recommendations for TranslatePress and Elementor plugins
+- Fixed problem with logo migration for old sites
+
+### 1.8.5.29 - 02/09/2017
+**Changes:** 
+- Fixed issue with images not appearing on the blog page
+
+### 1.8.5.28 - 25/08/2017
+**Changes:** 
+- Recommend Elementor plugin
+- Fixed issue with the preloader not working on the Frontpage
+
+### 1.8.5.27 - 25/08/2017
+**Changes:** 
+- Fixed some strings
+
+### 1.8.5.26 - 25/08/2017
+**Changes:** 
+- Integrated with Grunt and fixed all the errors
+- Fixed issues with main navigation menu not closing on mobile devices when an anchor is clicked
+- Fixed issue with options in Contact section not updating instantly
+
+### 1.8.5.25 - 28/06/2017
+**Changes:** 
+- Fixed conflict with Elementor plugin font size option
+- Added missing strings in wpml-config.xml file
+- Fixed Google Structured Data Test Tool issue The property logo is not recognized by Google for an object of type WPHeader
+- Fixed documentation URL from http to https
+
+### 1.8.5.24 - 15/06/2017
+**Changes:** 
+- Removed timed upsells
+- Removed recommended actions link when no actions are required
+- Fixed Minify Auto bug with W3 Total Cache
+- Added some hooks and filters for child themes
+
+### 1.8.5.23 - 17/05/2017
+**Changes:** 
+- Fixed Our focus widgets for older version of the theme
+
+### 1.8.5.22 - 16/05/2017
+**Changes:** 
+- Added compatibility with Nivo Slider Lite plugin
+
+### 1.8.5.21 - 11/05/2017
+**Changes:** 
+- Development
+
+### 1.8.5.20 - 08/05/2017
+**Changes:** 
+- Make upsells visible after 12 hours after theme activation
+
+### 1.8.5.19 - 03/05/2017
+**Changes:** 
+- Recommend ThemeIsle Companion plugin with TGM
+
+### 1.8.5.18 - 27/04/2017
+**Changes:** 
+- Development
+
+### 1.8.5.17 - 25/04/2017
+**Changes:** 
+- Fixed small CSS alignment issues with WooCommerce 3.0.0
+- Added Install and Activate buttons in Recommended actions and plugins for better use
+
 ### 2.0.5 - 05/01/2017
 **Changes:** 
 - Fixed fatal error issues with Themeisle Companion plugin installed
